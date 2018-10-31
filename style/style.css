@@ -1,0 +1,21 @@
+td, th{
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+.input-group{
+    padding: 20px 0;
+}
+
+svg{
+    height: 150px;
+}
+
+td:first-of-type, td:first-of-type > div{
+    height: 200px;
+    width: 250px;
+
+}
+body{
+    background-image: linear-gradient(to right, rgba(0,255,0,0.4), rgba(0,0,200,0.4)) !important; 
+}
